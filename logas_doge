@@ -1,0 +1,113 @@
+Main.hx:502: page=OrderBook&callback=PlaceOrder&sellAmount=0.00013500&exRate=0.0
+0001050&csrfToken=c07fc59db4d542876260b81781e12a5b261b58da0600de5b1d00b663121195
+2a&buyCurrency=LTC&sellCurrency=DOGE&marketCurrency=DOGE&baseCurrency=LTC
+Main.hx:203: DOGE,LTC
+Main.hx:213: 1.07e-005,169.54,0.00181408
+Main.hx:219: 1.05e-005,471684.00014958,4.952682
+Main.hx:237: e96315364a604b42739b1c554e3fc4e5302f29b0e0a3db9b5f7ce7e3f6e53f9d
+Main.hx:257: Doge: 0.00015
+Main.hx:258: Ltc: 0.18625799
+Main.hx:259: Btc: 0.0107217
+Main.hx:285: Current Doge: 51993     ltl: 35.476955613
+Main.hx:341: !!!!!     DOGE -> LTC = 100.596774193548
+Main.hx:203: LTC,BTC
+Main.hx:213: 0.0297499,0.17404,0.00517767
+Main.hx:219: 0.0297,0.61509453,0.01826831
+Main.hx:237: e96315364a604b42739b1c554e3fc4e5302f29b0e0a3db9b5f7ce7e3f6e53f9d
+Main.hx:257: Doge: 0.00015
+Main.hx:258: Ltc: 0.18625799
+Main.hx:259: Btc: 0.0107217
+Main.hx:285: Current Doge: 51993     ltl: 35.476955613
+Main.hx:341: !!!!!     DOGE -> LTC = 100.596774193548
+Main.hx:203: DOGE,BTC
+Main.hx:213: 3.1e-007,1384553.31145,0.42921153
+Main.hx:219: 3e-007,1171350,0.351405
+Main.hx:237: e96315364a604b42739b1c554e3fc4e5302f29b0e0a3db9b5f7ce7e3f6e53f9d
+Main.hx:257: Doge: 0.00015
+Main.hx:258: Ltc: 0.18625799
+Main.hx:259: Btc: 0.0107217
+Main.hx:285: Current Doge: 51993     ltl: 35.476955613
+Main.hx:341: !!!!!     DOGE -> LTC = 100.596774193548
+Main.hx:442: DOGE_LTC: 0.00015
+Main.hx:495: Transaction
+Main.hx:502: page=OrderBook&callback=PlaceOrder&sellAmount=0.00013500&exRate=0.0
+0001050&csrfToken=e96315364a604b42739b1c554e3fc4e5302f29b0e0a3db9b5f7ce7e3f6e53f
+9d&buyCurrency=LTC&sellCurrency=DOGE&marketCurrency=DOGE&baseCurrency=LTC
+Main.hx:203: LTC,BTC
+Main.hx:213: 0.0297499,0.17404,0.00517767
+Main.hx:219: 0.0297,0.61509453,0.01826831
+Main.hx:237: e96315364a604b42739b1c554e3fc4e5302f29b0e0a3db9b5f7ce7e3f6e53f9d
+Main.hx:257: Doge: 0.00015
+Main.hx:258: Ltc: 0.18625799
+Main.hx:259: Btc: 0.0107217
+Main.hx:285: Current Doge: 51993     ltl: 35.476955613
+Main.hx:341: !!!!!     DOGE -> LTC = 100.596774193548
+Main.hx:442: DOGE_LTC: 0.00015
+Main.hx:495: Transaction
+Main.hx:502: page=OrderBook&callback=PlaceOrder&sellAmount=0.00013500&exRate=0.0
+0001050&csrfToken=e96315364a604b42739b1c554e3fc4e5302f29b0e0a3db9b5f7ce7e3f6e53f
+9d&buyCurrency=LTC&sellCurrency=DOGE&marketCurrency=DOGE&baseCurrency=LTC
+Main.hx:203: DOGE,LTC
+Main.hx:213: 1.07e-005,169.54,0.00181408
+Main.hx:219: 1.05e-005,471684.00014958,4.952682
+Main.hx:237: 68986659eea9073db77c72229522b2b05a03a990058aa2bbdb4e5b049159cf94
+Main.hx:257: Doge: 0.00015
+Main.hx:258: Ltc: 0.18625799
+Main.hx:259: Btc: 0.0107217
+Main.hx:285: Current Doge: 51993     ltl: 35.476955613
+Main.hx:341: !!!!!     DOGE -> LTC = 100.596774193548
+Main.hx:203: DOGE,BTC
+Main.hx:213: 3.1e-007,1384553.31145,0.42921153
+Main.hx:219: 3e-007,1171350,0.351405
+Main.hx:237: 68986659eea9073db77c72229522b2b05a03a990058aa2bbdb4e5b049159cf94
+Main.hx:257: Doge: 0.00015
+Main.hx:258: Ltc: 0.18625799
+Main.hx:259: Btc: 0.0107217
+Main.hx:285: Current Doge: 51993     ltl: 35.476955613
+Main.hx:341: !!!!!     DOGE -> LTC = 100.596774193548
+Main.hx:203: LTC,BTC
+Main.hx:213: 0.0297499,0.17404,0.00517767
+Main.hx:219: 0.0297,0.61509453,0.01826831
+Main.hx:237: 68986659eea9073db77c72229522b2b05a03a990058aa2bbdb4e5b049159cf94
+Main.hx:257: Doge: 0.00015
+Main.hx:258: Ltc: 0.18625799
+Main.hx:259: Btc: 0.0107217
+Main.hx:285: Current Doge: 51993     ltl: 35.476955613
+Main.hx:341: !!!!!     DOGE -> LTC = 100.596774193548
+Main.hx:442: DOGE_LTC: 0.00015
+Main.hx:495: Transaction
+Main.hx:502: page=OrderBook&callback=PlaceOrder&sellAmount=0.00013500&exRate=0.0
+0001050&csrfToken=68986659eea9073db77c72229522b2b05a03a990058aa2bbdb4e5b049159cf
+94&buyCurrency=LTC&sellCurrency=DOGE&marketCurrency=DOGE&baseCurrency=LTC
+Main.hx:203: DOGE,LTC
+Main.hx:213: 1.07e-005,169.54,0.00181408
+Main.hx:219: 1.05e-005,471684.00014958,4.952682
+Main.hx:237: 68986659eea9073db77c72229522b2b05a03a990058aa2bbdb4e5b049159cf94
+Main.hx:257: Doge: 0.00015
+Main.hx:258: Ltc: 0.18625799
+Main.hx:259: Btc: 0.0107217
+Main.hx:285: Current Doge: 51993     ltl: 35.476955613
+Main.hx:341: !!!!!     DOGE -> LTC = 100.596774193548
+Main.hx:203: DOGE,BTC
+Main.hx:213: 3.1e-007,1351553.31145,0.41898153
+Main.hx:219: 3e-007,1171350,0.351405
+Main.hx:237: 68986659eea9073db77c72229522b2b05a03a990058aa2bbdb4e5b049159cf94
+Main.hx:257: Doge: 0.00015
+Main.hx:258: Ltc: 0.18625799
+Main.hx:259: Btc: 0.0107217
+Main.hx:285: Current Doge: 51993     ltl: 35.476955613
+Main.hx:341: !!!!!     DOGE -> LTC = 100.596774193548
+Main.hx:203: LTC,BTC
+Main.hx:213: 0.0297499,0.17404,0.00517767
+Main.hx:219: 0.0297,0.61509453,0.01826831
+Main.hx:237: 68986659eea9073db77c72229522b2b05a03a990058aa2bbdb4e5b049159cf94
+Main.hx:257: Doge: 0.00015
+Main.hx:258: Ltc: 0.18625799
+Main.hx:259: Btc: 0.0107217
+Main.hx:285: Current Doge: 51993     ltl: 35.476955613
+Main.hx:341: !!!!!     DOGE -> LTC = 100.596774193548
+Main.hx:442: DOGE_LTC: 0.00015
+Main.hx:495: Transaction
+Main.hx:502: page=OrderBook&callback=PlaceOrder&sellAmount=0.00013500&exRate=0.0
+0001050&csrfToken=68986659eea9073db77c72229522b2b05a03a990058aa2bbdb4e5b049159cf
+94&buyCurrency=LTC&sellCurrency=DOGE&marketCurrency=DOGE&baseCurrency=LTC
